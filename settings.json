@@ -1,0 +1,252 @@
+{
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 26,
+  "editor.tabSize": 2,
+  "oneDarkPro.vivid": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.accessibilitySupport": "off",
+  "explorer.openEditors.visible": 0,
+  "editor.formatOnType": true,
+  "php.suggest.basic": false,
+  "php.validate.executablePath": "E:/xampp/php/php.exe",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[php]": {
+    "editor.tabSize": 4
+  },
+  "[blade]": {
+    "editor.defaultFormatter": "onecentlin.laravel-blade",
+    "editor.tabSize": 4
+  },
+  "gitblame.pluralWebPathSubstrings": ["bitbucket", "atlassian"],
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.singleQuote": true,
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.arrowParens": "avoid",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "html.format.templating": true,
+  "files.associations": {
+    "*.ejs": "html"
+  },
+  "workbench.list.smoothScrolling": true,
+  "editor.fontFamily": "Consolas, 'Fira Code',  'Source Sans Pro', 'Courier New', monospace, 'Source Code Pro'",
+  "editor.fontLigatures": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "blade.format.enable": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vetur.completion.tagCasing": "initial",
+  "vetur.validation.templateProps": true,
+  "workbench.iconTheme": "vscode-icons",
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "h:",
+      "color": "#fafafa",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "p:",
+      "color": "#f9ca24",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "k:",
+      "color": "#c7ecee",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "..",
+      "color": "white",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": ">",
+      "color": "#95a5a6",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "editor.suggestSelection": "first",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "LaravelExtraIntellisense.modelsPaths": ["app", "app/Models"],
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "auto-open-css-modules.focusOnCss": true,
+  "auto-open-css-modules.openAsPreview": true,
+  "auto-open-css-modules.manualMode": true,
+  "tailwindCSS.lint.invalidApply": "ignore",
+  "tailwindCSS.lint.invalidTailwindDirective": "ignore",
+  "tailwindCSS.lint.invalidConfigPath": "ignore",
+  "tailwindCSS.lint.cssConflict": "ignore",
+  "tailwindCSS.lint.invalidScreen": "ignore",
+  "tailwindCSS.lint.invalidVariant": "ignore",
+  "tailwindCSS.lint.recommendedVariantOrder": "ignore",
+  "dateTime.showDayOfMonth": true,
+  "dateTime.showDayOfWeek": true,
+  "dateTime.showMonth": true,
+  "dateTime.showSeconds": true,
+  "dateTime.padDays": true,
+  "security.workspace.trust.enabled": false,
+  "redhat.telemetry.enabled": true,
+  "openapi.securityAuditToken": "CiBpx/ayNI8l69kNFhzCvDh6sk0FYfiCsT0aJpyR5OnyYhIYq0mIzlLR6wKDNIjkUi0T7F1CZDzBMqfhGna2scsjl4ycQ25DZVGEl4pkrOJwSrsHreHMYEQ2mGuSpEwPVeI3dcsQP180PGd8pjU/1VbFAHGSXmQk0PZLpCU/+TmpMH/5ZO5EGAmVR7TRCon9ky3Bc9+nnzGNIBiOyiF1BXtz1kaekiaYmgyEX4j1S085CvpQ",
+  "tabnine.experimentalAutoImports": true,
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "oracledevtools.bookmarkFileFolder": "C:\\Users\\giann\\Oracle\\oracle.oracledevtools",
+  "oracledevtools.download.otherFolder": "C:\\Users\\giann\\downloads",
+  "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\giann\\Oracle\\network\\admin",
+  "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\giann\\Oracle\\network\\admin",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#3c5874",
+    "statusBar.foreground": "#d6dde2"
+  },
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#dd0531"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#61dafb"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Svelte Orange",
+      "value": "#ff3d00"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    },
+    {
+      "name": "PHP Purple",
+      "value": "#4F5B93"
+    }
+  ],
+  "window.zoomLevel": -1
+}

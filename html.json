@@ -1,0 +1,27 @@
+{
+  "PHP Tag": {
+    "prefix": "php",
+    "body": ["<?php $1 ?>"],
+    "description": "PHP Tag"
+  },
+  "PHP short Tag": {
+    "prefix": "ph",
+    "body": ["<?php", "", "$0"],
+    "description": "PHP short Tag"
+  },
+  "PHP echo": {
+    "prefix": "phpp",
+    "body": ["<?= $$0 ?>"],
+    "description": "PHP echo"
+  },
+  "Debug print pretty array PHP": {
+    "prefix": "epro",
+    "body": [
+      "echo \"<pre>\";",
+      "print_r(${1:variable});",
+      "echo \"</pre>\";",
+      "die;"
+    ],
+    "description": "Debug print pretty array PHP"
+  }
+}

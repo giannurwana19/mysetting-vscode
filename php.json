@@ -1,0 +1,27 @@
+{
+  "PHP echo break": {
+    "prefix": "ebr",
+    "body": ["'echo <br>'"],
+    "description": "PHP echo break"
+  },
+  "Debug print pretty array PHP": {
+    "prefix": "epro",
+    "body": [
+      "echo \"<pre>\";",
+      "print_r($${1:var});",
+      "echo \"</pre>\";",
+      "die;"
+    ],
+    "description": "Debug print pretty array PHP"
+  },
+  "Debug and stop script PHP": {
+    "prefix": "vardie",
+    "body": ["var_dump($${1:var});", "die;"],
+    "description": "Debug and stop script PHP"
+  },
+  "Object this php": {
+    "prefix": "this",
+    "body": ["\\$this->"],
+    "description": "Object this php"
+  }
+}
