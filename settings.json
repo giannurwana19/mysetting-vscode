@@ -2,11 +2,9 @@
   "editor.wordWrap": "on",
   "editor.lineHeight": 26,
   "editor.tabSize": 2,
-  "oneDarkPro.vivid": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.accessibilitySupport": "off",
   "explorer.openEditors.visible": 0,
-  "editor.formatOnType": true,
   "php.suggest.basic": false,
   "php.validate.executablePath": "E:/xampp/php/php.exe",
   "[javascript]": {
@@ -22,7 +20,7 @@
     "editor.tabSize": 4
   },
   "[blade]": {
-    "editor.defaultFormatter": "onecentlin.laravel-blade",
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter",
     "editor.tabSize": 4
   },
   "gitblame.pluralWebPathSubstrings": ["bitbucket", "atlassian"],
@@ -197,15 +195,10 @@
   "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "bracket-pair-colorizer-2.depreciation-notice": false,
-  "workbench.colorTheme": "One Dark Pro Darker",
   "oracledevtools.bookmarkFileFolder": "C:\\Users\\giann\\Oracle\\oracle.oracledevtools",
   "oracledevtools.download.otherFolder": "C:\\Users\\giann\\downloads",
   "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\giann\\Oracle\\network\\admin",
   "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\giann\\Oracle\\network\\admin",
-  "workbench.colorCustomizations": {
-    "statusBar.background": "#3c5874",
-    "statusBar.foreground": "#d6dde2"
-  },
   "peacock.favoriteColors": [
     {
       "name": "Angular Red",
@@ -248,5 +241,10 @@
       "value": "#4F5B93"
     }
   ],
-  "window.zoomLevel": -1
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.bracketPairColorization.enabled": true,
+  "oneDarkPro.vivid": true,
+  "go.toolsManagement.autoUpdate": true,
+  "window.zoomLevel": -2
 }
